@@ -220,6 +220,7 @@
     </div>
   </section>
 
+ 
   <section id="team" class="section-spacer team-section">
     <div  class="container">
       <header class="text-center section-header">
@@ -301,7 +302,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/lija.jpg') }}" alt="co-organizer avatar">
+                    <img src="{{ asset('images/frontend/team/Lija.jpg') }}" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -327,7 +328,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/sanjay.jpg') }}" alt="co-organizer avatar">
+                    <img src="{{ asset('images/frontend/team/avatar.png') }}" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
