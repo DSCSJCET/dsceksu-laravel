@@ -234,20 +234,20 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/frontend/team/fransunisoft.png') }}" alt="mentor avatar">
+                    <img src="{{ asset('images/team/cse-sarju1-180x180.jpg') }}" alt="mentor avatar">
                   </div>
                   <div class="info">
                     <div class="title">
-                      <h5>Oluwaseyi Ayodele</h5>
-                      <p>Mentor</p>
+                      <h5>Proj. Sarju S</h5>
+                      <p>Faculty Advisor</p>
                     </div>
-                    <div class="desc">Mobile and Web developer</div>
+                    <!-- <div class="desc">Mobile and Web developer</div>
                     <div class="desc">Open source enthusiast</div>
-                    <div class="desc">Community mentor</div>
+                    <div class="desc">Community mentor</div> -->
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                      <li>
+                      <!-- <li>
                         <a href="https://twitter.com/Fransunisoft" target="_blank" rel="noopener">
                           <i class="fab fa-twitter"></i>
                         </a>
@@ -257,7 +257,7 @@
                           <i class="fab fa-github"></i>
                         </a>
                       </li>
-                      <li>
+                      <li> -->
                         <a href="https://www.linkedin.com/in/oluwaseyiayodele" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
@@ -272,29 +272,20 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/frontend/team/emmanueljet.png') }}" alt="lead avatar">
+                    <img src="{{ asset('images/team/sandeep.jpg') }}" alt="lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
-                      <h5>Emmanuel Joseph (JET)</h5>
-                      <p>Lead Organizer</p>
+                      <h5>Sandeep Salmon</h5>
+                      <p>DSC Lead</p>
                     </div>
-                    <div class="desc">Mobile, and web developer</div>
+                    <!-- <div class="desc">Mobile, and web developer</div>
                     <div class="desc">Open source enthusiast</div>
-                    <div class="desc">A Software Developer who is in love with Community Building</div>
+                    <div class="desc">A Software Developer who is in love with Community Building</div> -->
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                      <li>
-                        <a href="https://twitter.com/emmanuelJet_" target="_blank" rel="noopener">
-                          <i class="fab fa-twitter"></i>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://github.com/emmanuelJet" target="_blank" rel="noopener">
-                          <i class="fab fa-github"></i>
-                        </a>
-                      </li>
+
                       <li>
                         <a href="https://www.linkedin.com/in/jet774" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
@@ -310,29 +301,17 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/frontend/team/avatar.png') }}" alt="co-organizer avatar">
+                    <img src="{{ asset('images/team/lija.jpg') }}" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
-                      <h5>Loading...</h5>
-                      <p>Co-organizer</p>
+                      <h5>Lija Alex</h5>
+                      <p>DSC Co-Lead</p>
                     </div>
-                    <div class="desc">Mobile and Web developer</div>
-                    <div class="desc">Open source enthusiast</div>
-                    <div class="desc">Community mentor</div>
+
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                      <li>
-                        <a href="https://twitter.com/ProfileName" target="_blank" rel="noopener">
-                          <i class="fab fa-twitter"></i>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://github.com/ProfileName" target="_blank" rel="noopener">
-                          <i class="fab fa-github"></i>
-                        </a>
-                      </li>
                       <li>
                         <a href="https://www.linkedin.com/in/ProfileName" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
@@ -348,30 +327,17 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/frontend/team/avatar.png') }}" alt="co-organizer avatar">
+                    <img src="{{ asset('images/team/sanjay.jpg') }}" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
-                      <h5>Loading...</h5>
-                      <p>Co-organizer</p>
+                      <h5>Sanjay Suresh</h5>
+                      <p>Design Lead</p>
                     </div>
-                    <div class="desc">Mobile and Web developer</div>
-                    <div class="desc">Open source enthusiast</div>
-                    <div class="desc">Community mentor</div>
+
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                      <li>
-                        <a href="https://twitter.com/ProfileName" target="_blank" rel="noopener">
-                          <i class="fab fa-twitter"></i>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://github.com/ProfileName" target="_blank" rel="noopener">
-                          <i class="fab fa-github"></i>
-                        </a>
-                      </li>
-                      <li>
                         <a href="https://www.linkedin.com/in/ProfileName" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
@@ -394,6 +360,7 @@
       </div>
     </div>
   </section>
+
 
   <section id="faqs" class="section-spacer section-faq">
     <div class="container">
