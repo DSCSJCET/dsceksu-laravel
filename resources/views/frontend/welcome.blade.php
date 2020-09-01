@@ -273,7 +273,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/sandeep.jpg') }}" alt="lead avatar">
+                    <img src="{{ asset('images/team/photo.jpg') }}" alt="lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -302,7 +302,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/frontend/team/Lija.jpg') }}" alt="co-organizer avatar">
+                    <img src="{{ asset('images/team/Lija.jpg') }}" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -328,7 +328,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/frontend/team/avatar.png') }}" alt="co-organizer avatar">
+                    <img src="{{ asset('images/team/sanjay.jpg') }}" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
