@@ -3,7 +3,7 @@
     <div class="row flex-column-reverse flex-sm-row flex-lg-row">
       <div class="col-md-4 col-12">
         <div class="footer-widget first-of-footer-widget">
-          <img src="{{ asset('images/logo.png') }}" class="logo-sm mb-10" alt="{{ config('app.name') }}">
+          <img src="{{ asset('images/logo1.png') }}" class="logo-sm mb-10" alt="{{ config('app.name') }}">
           <p>&copy; {{ date('Y') }} | All Rights Reserved.</p>
           <span>Feel free to drop us an email at </span>
           <a href="mailto:{{ config('app.info.email') }}">{{ config('app.info.email') }}</a>
