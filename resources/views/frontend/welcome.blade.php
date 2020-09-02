@@ -120,6 +120,8 @@
     </div>
   </section>
 
+
+<!--
   <section id="workshops" class="section-spacer workshops-section bg-very__gray">
     <div class="container">
       <header class="section-header text-center">
@@ -219,7 +221,7 @@
       </div>
     </div>
   </section>
-
+ -->
  
   <section id="team" class="section-spacer team-section">
     <div  class="container">
