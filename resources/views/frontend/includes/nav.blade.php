@@ -22,16 +22,18 @@
           <li class="nav-item"><a href="{{ route('index') }}#technologies" class="nav-link">Technologies</a></li>
           <li class="nav-item {{ Request::is('learn') ? 'active' : '' }}"><a href="{{ route('learn') }}" class="nav-link">Learn</a></li>
           <li class="nav-item {{ Request::is('projects') ? 'active' : '' }}"><a href="{{ route('projects') }}" class="nav-link">Projects</a></li>
-          <li class="nav-item"><a href="{{ route('index') }}#workshops" class="nav-link">Workshops</a></li>
+         <!-- <li class="nav-item"><a href="{{ route('index') }}#workshops" class="nav-link">Workshops</a></li> -->
           <li class="nav-item"><a href="{{ route('index') }}#team" class="nav-link">Team</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ config('app.info.blog') }}" target="_blank" rel="follow">Stories</a></li>
+          <!-- <li class="nav-item"><a class="nav-link" href="{{ config('app.info.blog') }}" target="_blank" rel="follow">Stories</a></li>-->
         </ul>
         <div class="custom-menu__right">
-          @auth
+        <a href=# class="event-btn"><i class="fa fa-users"></i> Become a member</a>
+      <!--    @auth
             <a href="{{ route('login') }}" class="event-btn"><i class="fa fa-home"></i> Dashboard </a>
           @else
             <a href="{{ route('register') }}" class="event-btn"><i class="fa fa-users"></i> Become a member</a>
           @endauth
+          -->
         </div>
       @endif
     </div>
