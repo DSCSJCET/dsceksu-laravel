@@ -167,7 +167,7 @@
                   <a href="https://www.meetup.com/GDG-Kisii/events/258288805/" class="button float-right">Attend</a>
                 </div>
               </div>
-            </div> -->
+            </div> 
           </div>
         </div>
         <div class="tab-pane" id="past" role="tabpanel" aria-labelledby="past">
