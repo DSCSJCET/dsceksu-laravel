@@ -144,7 +144,7 @@
             <div class="message-wrapper col-12">
               <h2 class="message-text">Loading...</h2>
             </div>
-            <!-- <div class="col-md-4 col-12">
+          <div class="col-md-4 col-12">
               <div class="card event-card">
                 <img class="card-img-top" src="{{ asset('images/frontend/events/fbw.png') }}" alt="Event one poster">
                 <div class="card-body">
