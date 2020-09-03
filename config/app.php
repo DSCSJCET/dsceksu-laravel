@@ -21,7 +21,8 @@ return [
       'phone' => env('APP_PHONE'),
       'blog' => env('APP_BLOG'),
       'twitter' => env('APP_TWITTER'),
-      'github' => env('APP_GITHUB')
+      'github' => env('APP_GITHUB'),
+      'instagram' => env('APP_INSTAGRAM')
     ],
 
     /*
