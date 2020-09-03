@@ -14,15 +14,25 @@ return [
     'orientation' => 'any',
     'lang' => 'en-US',
     'icons' => [
-      '72x72' => '/images/favicon_package_v0.16/favicon-32x32.png',
-      '96x96' => '/images/favicon_package_v0.16/favicon-32x32.png',
-      '128x128' => '/images/favicon_package_v0.16/favicon-32x32.png',
-      '144x144' => '/images/favicon_package_v0.16/favicon-32x32.png',
-      '152x152' => '/images/favicon_package_v0.16/mstile-150x150.png',
-      '192x192' => '/images/favicon_package_v0.16/android-chrome-192x192.png',
-      '384x384' => '/images/favicon_package_v0.16/android-chrome-192x192.png',
-      '512x512' => '/images/favicon_package_v0.16/android-chrome-512x512.png'
-    ],
+        {
+            "src": "/images/favicon_package_v0.16/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/favicon_package_v0.16/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+//       '72x72' => '/images/favicon_package_v0.16/favicon-32x32.png',
+//       '96x96' => '/images/favicon_package_v0.16/favicon-32x32.png',
+//       '128x128' => '/images/favicon_package_v0.16/favicon-32x32.png',
+//       '144x144' => '/images/favicon_package_v0.16/favicon-32x32.png',
+//       '152x152' => '/images/favicon_package_v0.16/mstile-150x150.png',
+//       '192x192' => '/images/favicon_package_v0.16/android-chrome-192x192.png',
+//       '384x384' => '/images/favicon_package_v0.16/android-chrome-192x192.png',
+//       '512x512' => '/images/favicon_package_v0.16/android-chrome-512x512.png'
+      ],
     'splash' => [
       '640x1136' => '/images/splashscreens/iphone5_splash.png',
       '750x1334' => '/images/splashscreens/iphone6_splash.png',
