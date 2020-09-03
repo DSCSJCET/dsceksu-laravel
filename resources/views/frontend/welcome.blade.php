@@ -341,7 +341,7 @@
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/ProfileName" target="_blank" rel="noopener">
+                        <a href="https://www.linkedin.com/in/sanjay-suresh-bab4951b6" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
                       </li>
@@ -446,7 +446,7 @@
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/ProfileName" target="_blank" rel="noopener">
+                        <a href="https://www.linkedin.com/in/rohann-tom-4494091b6" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
                       </li>
@@ -499,7 +499,7 @@
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/ProfileName" target="_blank" rel="noopener">
+                        <a href="https://www.linkedin.com/in/anitta-mary-thomas-b348aa1a5" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
                       </li>
