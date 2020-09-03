@@ -248,7 +248,7 @@
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/ProfileName" target="_blank" rel="noopener">
+                        <a href="https://www.linkedin.com/in/sonu-babychan-a22a53171" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
                       </li>
