@@ -248,7 +248,7 @@
           <div class="card">
             <div class="card-body">
               <h5 class="card-title">How frequently do events and workshops occur?</h5>
-              <p>We hold workshops and showcases at TechHub EKSU & we would recommend you to join our community by becoming a <a href="{{ route('register') }}">member</a> to get updates.</p>
+              <p>We hold workshops and showcases at SJCET PALAI & we would recommend you to join our community by becoming a <a href="{{ route('register') }}">member</a> to get updates.</p>
             </div>
           </div>
         </div>
