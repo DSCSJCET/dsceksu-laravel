@@ -21,13 +21,13 @@
           <li class="nav-item {{ Request::is('/') ? 'active' : '' }}"><a class="nav-link" href="{{ route('index') }}#overview">Overview</a></li>
           <li class="nav-item"><a href="{{ route('index') }}#technologies" class="nav-link">Technologies</a></li>
           <li class="nav-item {{ Request::is('learn') ? 'active' : '' }}"><a href="{{ route('learn') }}" class="nav-link">Learn</a></li>
-          <li class="nav-item {{ Request::is('projects') ? 'active' : '' }}"><a href="{{ route('projects') }}" class="nav-link">Projects</a></li>
+         <!-- <li class="nav-item {{ Request::is('projects') ? 'active' : '' }}"><a href="{{ route('projects') }}" class="nav-link">Projects</a></li> -->
          <!-- <li class="nav-item"><a href="{{ route('index') }}#workshops" class="nav-link">Workshops</a></li> -->
           <li class="nav-item"><a href="{{ route('index') }}#team" class="nav-link">Team</a></li>
           <!-- <li class="nav-item"><a class="nav-link" href="{{ config('app.info.blog') }}" target="_blank" rel="follow">Stories</a></li>-->
         </ul>
         <div class="custom-menu__right">
-        <a href=# class="event-btn"><i class="fa fa-users"></i> Become a member</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScItMQdA5umswrau0IH0fe1u4J03NXxCpyjB1jLcHr9vpKw5A/closedform" class="event-btn" target="_unblank><i class="fa fa-users"></i> Become a member</a>
       <!--    @auth
             <a href="{{ route('login') }}" class="event-btn"><i class="fa fa-home"></i> Dashboard </a>
           @else
