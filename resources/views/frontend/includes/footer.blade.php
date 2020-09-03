@@ -24,7 +24,7 @@
               </a>
             </li>
             <li>
-              <a href="https://www.youtube.com/user/GoogleDevelopers"target="_blank" rel="noopener">
+              <a href="{{ config('app.info.youtube') }}" target="_blank" rel="noopener">
                 <i class="fab fa-youtube"></i>
               </a>
             </li>
