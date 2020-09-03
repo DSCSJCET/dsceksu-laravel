@@ -14,13 +14,13 @@ return [
     'orientation' => 'any',
     'lang' => 'en-US',
     'icons' => [
-      '72x72' => '/images/favicon_package_v0.16/icon-72x72.png',
-      '96x96' => '/images/favicon_package_v0.16/icon-96x96.png',
-      '128x128' => '/images/favicon_package_v0.16/icon-128x128.png',
-      '144x144' => '/images/favicon_package_v0.16/icon-144x144.png',
+      '72x72' => '/images/favicon_package_v0.16/favicon-32x32.png',
+      '96x96' => '/images/favicon_package_v0.16/favicon-32x32.png',
+      '128x128' => '/images/favicon_package_v0.16/favicon-32x32.png',
+      '144x144' => '/images/favicon_package_v0.16/favicon-32x32.png',
       '152x152' => '/images/favicon_package_v0.16/mstile-150x150.png',
       '192x192' => '/images/favicon_package_v0.16/android-chrome-192x192.png',
-      '384x384' => '/images/favicon_package_v0.16/icon-384x384.png',
+      '384x384' => '/images/favicon_package_v0.16/android-chrome-192x192.png',
       '512x512' => '/images/favicon_package_v0.16/android-chrome-512x512.png'
     ],
     'splash' => [
