@@ -29,7 +29,7 @@ return [
 //       '128x128' => '/images/favicon_package_v0.16/favicon-32x32.png',
 //       '144x144' => '/images/favicon_package_v0.16/favicon-32x32.png',
 //       '152x152' => '/images/favicon_package_v0.16/mstile-150x150.png',
-      '192x192' => '/images/favicon_package_v0.16/android-chrome-192x192.png',
+//       '192x192' => '/images/favicon_package_v0.16/android-chrome-192x192.png',
 //       '384x384' => '/images/favicon_package_v0.16/android-chrome-192x192.png',
       '512x512' => '/images/favicon_package_v0.16/android-chrome-512x512.png'
       ],
