@@ -4,7 +4,7 @@
 <meta name="title" content="{{ Request::is('/') ? config('app.name') : config('app.nick') }} @yield('title')">
 <meta name="keywords" content="dsc, developer student clubs, {{ config('app.name') }}, {{ config('app.nick') }}, google developers, India, students, technology, DSCSJCET, SJCET, Kerala"/>
 <meta name="description" content="Developer Student Clubs(DSC) is a Google Developers program for SJCET students to acquire technical skills and solve problems">
-<link rel="icon" type="image/png" href="config('app.url') }}images/favicon_package_v0.16/android-chrome-512x512.png" />
+<link rel="icon" type="image/png" href="{{ config('app.url') }}images/favicon_package_v0.16/android-chrome-512x512.png" />
 <!-- Google -->
 <meta name="google-site-verification" content="{{ config('services.google.site_id') }}" />
 <link itemprop="url" rel="canonical" href="{{ url()->current() }}" />
