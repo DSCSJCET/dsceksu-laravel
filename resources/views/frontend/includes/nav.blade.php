@@ -27,7 +27,7 @@
           <!-- <li class="nav-item"><a class="nav-link" href="{{ config('app.info.blog') }}" target="_blank" rel="follow">Stories</a></li>-->
         </ul>
         <div class="custom-menu__right">
-        <a href="href="{{ config('app.info.memberformlink') }}" class="event-btn" target="_unblank><i class="fa fa-users"></i> Become a member</a>
+        <a href="{{ config('app.info.memberformlink') }}" class="event-btn" target="_unblank><i class="fa fa-users"></i> Become a member</a>
       <!--    @auth
             <a href="{{ route('login') }}" class="event-btn"><i class="fa fa-home"></i> Dashboard </a>
           @else
