@@ -23,7 +23,9 @@ return [
       'twitter' => env('APP_TWITTER'),
       'github' => env('APP_GITHUB'),
       'instagram' => env('APP_INSTAGRAM'),
-      'youtube' => env('APP_YOUTUBE')
+      'youtube' => env('APP_YOUTUBE'),
+      'memberformlink' => env('APP_MEMBER_FORM_LINK'),
+     
     ],
 
     /*
