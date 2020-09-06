@@ -31,7 +31,7 @@
       <!--    @auth
             <a href="{{ route('login') }}" class="event-btn"><i class="fa fa-home"></i> Dashboard </a>
           @else
-            <a href="{{ route('register') }}" class="event-btn"><i class="fa fa-users"></i> Become a member</a>
+            <a href="{{ route('register') }}" class="event-btn"><i class="fa fa-users"></i> View Our Chapter</a>
           @endauth
           -->
         </div>
