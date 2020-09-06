@@ -14,7 +14,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       @if (Request::is('offline'))
         <div class="custom-menu__right">
-          <a href="#offlineModal" data-toggle="modal" class="event-btn"><i class="fa fa-users"></i> Become a member</a>
+          <a href="#offlineModal" data-toggle="modal" class="event-btn"><i class="fa fa-users"></i>Open Community</a>
         </div>
       @else
         <ul class="navbar-nav ml-lg-auto">
