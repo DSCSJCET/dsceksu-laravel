@@ -17,7 +17,7 @@
               </div>
             </div>
             <!--<a class="hero-button" href="{{ route('register') }}"><i class="fa fa-users"></i> Become a member</a>-->
-            <a class="hero-button" target="_unblank" href="{{ config('app.info.memberformlink') }}"><i class="fa fa-users"></i> Become a member</a>
+            <a class="hero-button" target="_unblank" href="{{ config('app.info.memberformlink') }}"><i class="fa fa-users"></i> View Our Chapter</a>
           </div>
         </div>
         <div class="col-12 col-sm-5 ml-auto ml-pic">
